@@ -1,0 +1,42 @@
+﻿@model IEnumerable<SchoolBusinessLogic.ViewModel.CostViewModel>
+
+@{
+    ViewData["Title"] = "Затрата";
+}
+
+<h1>Список затрат</h1>
+
+<p>
+    <a asp-action="Create">Создать новую затрату</a>   
+    <a asp-action="BindToSociety">Выставить затраты</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sum)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sum)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Изменить</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Подробно</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

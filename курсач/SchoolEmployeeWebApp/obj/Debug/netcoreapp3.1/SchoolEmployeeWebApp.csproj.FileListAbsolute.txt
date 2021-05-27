@@ -1,0 +1,369 @@
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.exe
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.deps.json
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.runtimeconfig.json
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.runtimeconfig.dev.json
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.pdb
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.Views.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.Views.pdb
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.AssemblyInfoInputs.cache
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.AssemblyInfo.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.csproj.CoreCompileInputs.cache
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.RazorAssemblyInfo.cache
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.RazorAssemblyInfo.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\staticwebassets\SchoolEmployeeWebApp.StaticWebAssets.Manifest.cache
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\staticwebassets\SchoolEmployeeWebApp.StaticWebAssets.xml
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\SchoolEmployeeWebApp.styles.css
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.TagHelpers.input.cache
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.TagHelpers.output.cache
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.RazorCoreGenerate.cache
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.Views.pdb
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.pdb
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.genruntimeconfig.cache
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.csproj.CopyComplete
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Common.Logging.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Common.Logging.Core.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.barcodes.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.forms.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.io.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.kernel.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.layout.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.pdfa.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.sign.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.styledxmlparser.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.svg.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolBusinessLogic.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolBusinessLogic.pdb
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.csprojAssemblyReference.cache
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Create.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Delete.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Details.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Edit.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Index.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolDAL.dll
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolDAL.pdb
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registration.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cost\Create.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cost\Delete.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cost\Details.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cost\Edit.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cost\Index.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cost\BindToSociety.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Report\List.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Report\Report.cshtml.g.cs
+C:\Users\kalac\source\repos\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Diagram\Index.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.exe
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.deps.json
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.runtimeconfig.json
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.runtimeconfig.dev.json
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.pdb
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.Views.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolEmployeeWebApp.Views.pdb
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Common.Logging.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Common.Logging.Core.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.barcodes.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.forms.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.io.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.kernel.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.layout.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.pdfa.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.sign.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.styledxmlparser.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\itext.svg.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolBusinessLogic.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolDAL.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolBusinessLogic.pdb
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\bin\Debug\netcoreapp3.1\SchoolDAL.pdb
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.csprojAssemblyReference.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.AssemblyInfoInputs.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.AssemblyInfo.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.csproj.CoreCompileInputs.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.MvcApplicationPartsAssemblyInfo.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.MvcApplicationPartsAssemblyInfo.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.RazorAssemblyInfo.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.RazorAssemblyInfo.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\staticwebassets\SchoolEmployeeWebApp.StaticWebAssets.Manifest.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\staticwebassets\SchoolEmployeeWebApp.StaticWebAssets.xml
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\SchoolEmployeeWebApp.styles.css
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.TagHelpers.input.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.TagHelpers.output.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.RazorCoreGenerate.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cost\BindToSociety.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cost\Create.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cost\Delete.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cost\Details.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cost\Edit.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Cost\Index.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Diagram\Index.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registration.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Create.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Delete.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Details.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Edit.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Lesson\Index.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Report\List.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Report\Report.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.RazorTargetAssemblyInfo.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.RazorTargetAssemblyInfo.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.Views.pdb
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.csproj.CopyComplete
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.pdb
+D:\2 КУРС ДОТ\ТП\курсач\SchoolEmployeeWebApp\obj\Debug\netcoreapp3.1\SchoolEmployeeWebApp.genruntimeconfig.cache

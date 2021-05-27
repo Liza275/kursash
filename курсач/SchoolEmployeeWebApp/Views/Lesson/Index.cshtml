@@ -1,0 +1,47 @@
+﻿@model IEnumerable<SchoolBusinessLogic.ViewModel.LessonViewModel>
+
+@{
+    ViewData["Title"] = "Занятия";
+}
+
+<h1>Список занятия</h1>
+
+<p>
+    <a asp-action="Create">Создать новое занятие</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.LessonName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.LessonCount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.LessonName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LessonCount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Price)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Изменить</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Подробно</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Удалить</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

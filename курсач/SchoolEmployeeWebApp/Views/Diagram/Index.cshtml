@@ -1,0 +1,91 @@
+﻿@using System.Web
+@model SchoolBusinessLogic.BindingModel.DiagramBindingModel
+
+@{ ViewData["Title"] = "Diagram"; }
+
+<div class="text-center">
+    <form asp-action="Index">
+        <input type="hidden" asp-for="EmployeeId" value="@Program.Employee.Id" />
+        <div class="form-group">
+            <label asp-for="LessonId" class="control-label"></label>
+            <select asp-for="LessonId" required class="form-control" asp-items="ViewBag.LessonsId"></select>
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Сформировать диаграммы" class="btn btn-primary" />
+        </div>
+        <div id="LessonsPayment"></div>
+        <div id="LessonsCount"></div>
+        <div id="LessonsPrice"></div>
+    </form>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+<script type="text/javascript">
+
+      google.charts.load('current', {'packages':['corechart']});
+      google.charts.setOnLoadCallback(drawChartLessonsPayment);
+      google.charts.setOnLoadCallback(drawChartLessonsCount);
+      google.charts.setOnLoadCallback(drawChartLessonsPrice);
+
+    @if (Model != null && Model.DiagramsData != null) {
+        <text>
+        function drawChartLessonsPayment() {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', '@Html.Raw(HttpUtility.JavaScriptStringEncode(Model.DiagramsData[0].ColumnName))');
+            data.addColumn('number', '@Html.Raw(HttpUtility.JavaScriptStringEncode(Model.DiagramsData[0].ValueName))');
+          @foreach (var row in Model.DiagramsData[0].Data) {
+          <text>
+          data.addRow(['@Html.Raw(HttpUtility.JavaScriptStringEncode(row.Item1))', @row.Item2]);
+          </text>
+          }
+                    var options = {
+              'title': '@Html.Raw(HttpUtility.JavaScriptStringEncode(Model.DiagramsData[0].Title))',
+                       'width':1200,
+                       'height':900};
+
+            var chart = new google.visualization.LineChart(document.getElementById('LessonsPayment'));
+            chart.draw(data, options);
+        }
+
+        function drawChartLessonsCount() {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', '@Html.Raw(HttpUtility.JavaScriptStringEncode(Model.DiagramsData[1].ColumnName))');
+            data.addColumn('number', '@Html.Raw(HttpUtility.JavaScriptStringEncode(Model.DiagramsData[1].ValueName))');
+          @foreach (var row in Model.DiagramsData[1].Data) {
+          <text>
+          data.addRow(['@Html.Raw(HttpUtility.JavaScriptStringEncode(row.Item1))', @row.Item2]);
+          </text>
+          }
+                    var options = {
+              'title': '@Html.Raw(HttpUtility.JavaScriptStringEncode(Model.DiagramsData[1].Title))',
+                       'width':1200,
+                       'height':900};
+
+            var chart = new google.visualization.PieChart(document.getElementById('LessonsCount'));
+            chart.draw(data, options);
+        }
+
+        function drawChartLessonsPrice() {
+            var data = new google.visualization.DataTable();
+            data.addColumn('string', '@Html.Raw(HttpUtility.JavaScriptStringEncode(Model.DiagramsData[2].ColumnName))');
+            data.addColumn('number', '@Html.Raw(HttpUtility.JavaScriptStringEncode(Model.DiagramsData[2].ValueName))');
+          @foreach (var row in Model.DiagramsData[2].Data) {
+          <text>
+          data.addRow(['@Html.Raw(HttpUtility.JavaScriptStringEncode(row.Item1))', @row.Item2]);
+          </text>
+          }
+                    var options = {
+              'title': '@Html.Raw(HttpUtility.JavaScriptStringEncode(Model.DiagramsData[2].Title))',
+                       'width':1200,
+                       'height':900};
+
+            var chart = new google.visualization.ColumnChart(document.getElementById('LessonsPrice'));
+            chart.draw(data, options);
+        }
+        </text>
+    }
+</script>

@@ -1,0 +1,18 @@
+C:\Users\kalac\source\repos\SchoolBusinessLogic\obj\Debug\netstandard2.1\SchoolBusinessLogic.AssemblyInfoInputs.cache
+C:\Users\kalac\source\repos\SchoolBusinessLogic\obj\Debug\netstandard2.1\SchoolBusinessLogic.AssemblyInfo.cs
+C:\Users\kalac\source\repos\SchoolBusinessLogic\obj\Debug\netstandard2.1\SchoolBusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\kalac\source\repos\SchoolBusinessLogic\bin\Debug\netstandard2.1\SchoolBusinessLogic.deps.json
+C:\Users\kalac\source\repos\SchoolBusinessLogic\bin\Debug\netstandard2.1\SchoolBusinessLogic.dll
+C:\Users\kalac\source\repos\SchoolBusinessLogic\bin\Debug\netstandard2.1\SchoolBusinessLogic.pdb
+C:\Users\kalac\source\repos\SchoolBusinessLogic\obj\Debug\netstandard2.1\SchoolBusinessLogic.dll
+C:\Users\kalac\source\repos\SchoolBusinessLogic\obj\Debug\netstandard2.1\SchoolBusinessLogic.pdb
+C:\Users\kalac\source\repos\SchoolBusinessLogic\obj\Debug\netstandard2.1\SchoolBusinessLogic.csprojAssemblyReference.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolBusinessLogic\bin\Debug\netstandard2.1\SchoolBusinessLogic.deps.json
+D:\2 КУРС ДОТ\ТП\курсач\SchoolBusinessLogic\bin\Debug\netstandard2.1\SchoolBusinessLogic.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolBusinessLogic\bin\Debug\netstandard2.1\SchoolBusinessLogic.pdb
+D:\2 КУРС ДОТ\ТП\курсач\SchoolBusinessLogic\obj\Debug\netstandard2.1\SchoolBusinessLogic.csprojAssemblyReference.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolBusinessLogic\obj\Debug\netstandard2.1\SchoolBusinessLogic.AssemblyInfoInputs.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolBusinessLogic\obj\Debug\netstandard2.1\SchoolBusinessLogic.AssemblyInfo.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolBusinessLogic\obj\Debug\netstandard2.1\SchoolBusinessLogic.csproj.CoreCompileInputs.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolBusinessLogic\obj\Debug\netstandard2.1\SchoolBusinessLogic.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolBusinessLogic\obj\Debug\netstandard2.1\SchoolBusinessLogic.pdb

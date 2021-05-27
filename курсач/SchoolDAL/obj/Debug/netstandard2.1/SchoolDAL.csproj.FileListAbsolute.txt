@@ -1,0 +1,24 @@
+C:\Users\kalac\source\repos\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.csprojAssemblyReference.cache
+C:\Users\kalac\source\repos\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.AssemblyInfoInputs.cache
+C:\Users\kalac\source\repos\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.AssemblyInfo.cs
+C:\Users\kalac\source\repos\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.csproj.CoreCompileInputs.cache
+C:\Users\kalac\source\repos\SchoolDAL\bin\Debug\netstandard2.1\SchoolDAL.deps.json
+C:\Users\kalac\source\repos\SchoolDAL\bin\Debug\netstandard2.1\SchoolDAL.dll
+C:\Users\kalac\source\repos\SchoolDAL\bin\Debug\netstandard2.1\SchoolDAL.pdb
+C:\Users\kalac\source\repos\SchoolDAL\bin\Debug\netstandard2.1\SchoolBusinessLogic.dll
+C:\Users\kalac\source\repos\SchoolDAL\bin\Debug\netstandard2.1\SchoolBusinessLogic.pdb
+C:\Users\kalac\source\repos\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.csproj.CopyComplete
+C:\Users\kalac\source\repos\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.dll
+C:\Users\kalac\source\repos\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.pdb
+D:\2 КУРС ДОТ\ТП\курсач\SchoolDAL\bin\Debug\netstandard2.1\SchoolDAL.deps.json
+D:\2 КУРС ДОТ\ТП\курсач\SchoolDAL\bin\Debug\netstandard2.1\SchoolDAL.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolDAL\bin\Debug\netstandard2.1\SchoolDAL.pdb
+D:\2 КУРС ДОТ\ТП\курсач\SchoolDAL\bin\Debug\netstandard2.1\SchoolBusinessLogic.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolDAL\bin\Debug\netstandard2.1\SchoolBusinessLogic.pdb
+D:\2 КУРС ДОТ\ТП\курсач\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.csprojAssemblyReference.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.AssemblyInfoInputs.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.AssemblyInfo.cs
+D:\2 КУРС ДОТ\ТП\курсач\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.csproj.CoreCompileInputs.cache
+D:\2 КУРС ДОТ\ТП\курсач\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.csproj.CopyComplete
+D:\2 КУРС ДОТ\ТП\курсач\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.dll
+D:\2 КУРС ДОТ\ТП\курсач\SchoolDAL\obj\Debug\netstandard2.1\SchoolDAL.pdb
